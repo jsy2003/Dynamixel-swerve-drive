@@ -20,5 +20,8 @@
   ```    
 
 ### 3. Download & compile the source
-   1. 
+   1. Clone this reposiory to your catkin workspace
+   ```
+   $ cd catkin_ws/src
+   $ git clone 
 
